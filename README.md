@@ -1,6 +1,6 @@
 # Integrantes:
 - Kenyi Wilson Zuñiga Teran
-- luis alberto coaricona humpiri
+- Luis Alberto Coaricona Humpiri
 - Cristian Joel Jesus Aire
 - Araceli Ponce Sanga
 
